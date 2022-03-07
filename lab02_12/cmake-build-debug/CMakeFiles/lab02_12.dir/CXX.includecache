@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Cpp/2semestr/lab02_12/header.hpp
+iostream
+-
+planet.hpp
+C:/Cpp/2semestr/lab02_12/planet.hpp
+
+C:/Cpp/2semestr/lab02_12/main.cpp
+header.hpp
+C:/Cpp/2semestr/lab02_12/header.hpp
+
+C:/Cpp/2semestr/lab02_12/planet.cpp
+planet.hpp
+C:/Cpp/2semestr/lab02_12/planet.hpp
+
+C:/Cpp/2semestr/lab02_12/planet.hpp
+algorithm
+-
+iostream
+-
+iomanip
+-
+cstring
+-
+fstream
+-
+

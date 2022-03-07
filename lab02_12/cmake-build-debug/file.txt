@@ -1,0 +1,5 @@
+        AAAAA         100      0            10
+        Earth       12774      1             1
+      Mercury        4878      0             0
+          NEW        4878      0             0
+         Nfsf          10      1            20
