@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Cpp/2semestr/library_lab01/library.cpp
+library.h
+C:/Cpp/2semestr/library_lab01/library.h
+
+C:/Cpp/2semestr/library_lab01/library.h
+
