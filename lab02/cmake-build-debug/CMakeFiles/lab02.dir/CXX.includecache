@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Cpp/2semestr/lab02/Man.h
+iostream
+-
+iomanip
+-
+fstream
+-
+cstring
+-
+
+C:/Cpp/2semestr/lab02/main.cpp
+Man.h
+C:/Cpp/2semestr/lab02/Man.h
+iostream
+-
+iomanip
+-
+fstream
+-
+cstring
+-
+windows.h
+-
+
